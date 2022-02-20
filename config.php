@@ -1,1 +1,1 @@
-<?php    $gcaptcha_private = "<GCAPTCHA_PRIVATE_KEY>"?>
+<?php    $gcaptcha_private = "<GCAPTCHA_PRIVATE_KEY>"?>
